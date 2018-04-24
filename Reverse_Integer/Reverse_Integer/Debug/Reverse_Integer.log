@@ -1,0 +1,5 @@
+﻿  Reverse_Integer.cpp
+c:\users\liudongbo_sx\documents\visual studio 2015\projects\reverse_integer\reverse_integer\reverse_integer.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liudongbo_sx\documents\visual studio 2015\projects\reverse_integer\reverse_integer\reverse_integer.cpp(33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Reverse_Integer.vcxproj -> c:\users\liudongbo_sx\documents\visual studio 2015\Projects\Reverse_Integer\Debug\Reverse_Integer.exe
+  Reverse_Integer.vcxproj -> c:\users\liudongbo_sx\documents\visual studio 2015\Projects\Reverse_Integer\Debug\Reverse_Integer.pdb (Full PDB)
